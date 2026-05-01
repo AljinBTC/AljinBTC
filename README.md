@@ -65,7 +65,7 @@
   <a href="https://www.instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=D4AF37" /></a>
   <a href="https://www.youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=D4AF37" /></a>
   <a href="mailto:aljinkgl777@email.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+  <a href="https://www.linkedin.com/in/aljin-daniel-e-4246a1258/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbQ9daPDTR5yOECWpkxARZw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
 </p>
 
 <div align="center">
